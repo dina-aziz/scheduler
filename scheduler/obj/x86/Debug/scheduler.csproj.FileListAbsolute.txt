@@ -1,0 +1,10 @@
+D:\Dina's C++ programs\scheduler\bin\Debug\scheduler.exe
+D:\Dina's C++ programs\scheduler\bin\Debug\scheduler.pdb
+D:\Dina's C++ programs\scheduler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dina's C++ programs\scheduler\obj\x86\Debug\scheduler.exe
+D:\Dina's C++ programs\scheduler\obj\x86\Debug\scheduler.pdb
+D:\Dina\Dina's C++ programs\scheduler\obj\x86\Debug\scheduler.exe
+D:\Dina\Dina's C++ programs\scheduler\obj\x86\Debug\scheduler.pdb
+D:\Dina\Dina's C++ programs\scheduler\bin\Debug\scheduler.exe
+D:\Dina\Dina's C++ programs\scheduler\bin\Debug\scheduler.pdb
+D:\Dina\Dina's C++ programs\scheduler\obj\x86\Debug\scheduler.csprojResolveAssemblyReference.cache
