@@ -1,2 +1,2 @@
 # scheduler
-A very simple simulation of an operatind system scheduling process
+A very simple simulation of an operating system scheduling process
